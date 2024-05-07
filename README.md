@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WuHaiDong
 - 😄 Pronouns: 有一撮头发
 - 👀 I’m interested in Microservices、Middleware Development、Cloud Native and AIOT...
-- 🌱 I’m currently learning Linux kernel
+- 🌱 I am currently learning the linxu kernel and Rust..
 - 📫 How to reach me: charleskinx@outlook.com
 - ⚡ Fun fact: I don’t understand anything and can’t do anything now!!!!!!The most important thing is that I am still alive!!!!!!
 
